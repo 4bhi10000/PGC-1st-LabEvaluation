@@ -1,0 +1,7 @@
+version,size,threads,time_seconds,correct
+cuda_kernel,1000000,256,0.000352896,YES
+cuda_total,1000000,256,0.003286624,YES
+cuda_kernel,10000000,256,0.001706208,YES
+cuda_total,10000000,256,0.038353920,YES
+cuda_kernel,50000000,256,0.007466528,YES
+cuda_total,50000000,256,0.170057571,YES
